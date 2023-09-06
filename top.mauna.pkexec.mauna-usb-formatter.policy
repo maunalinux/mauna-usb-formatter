@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE policyconfig PUBLIC
+ "-//freedesktop//DTD PolicyKit Policy Configuration 1.0//EN"
+ "http://www.freedesktop.org/standards/PolicyKit/1/policyconfig.dtd">
+
+<policyconfig>
+
+  <vendor>Amarok Developers</vendor>
+  <vendor_url>https://amaroklinux.org/</vendor_url>
+
+  <action id="org.amarok.pkexec.amarok-usb-formatter">
+    <description>Run USB Formatter</description>
+    <message>Authentication is required to run Amarok USB Formatter</message>
+    <message xml:lang="af">Stawing word vereis om Amarok USB-formateerder te laat loop</message>
+    <message xml:lang="ar">المصادقة مطلوبة لتشغيل Amarok USB Formatter</message>
+    <message xml:lang="da">Der kræves godkendelse for at køre Amarok USB-formater</message>
+    <message xml:lang="de">Zur Ausführung des Amarok USB-Formatierer ist eine Authentifizierung erforderlich</message>
+    <message xml:lang="el">Απαιτείται έλεγχος ταυτότητας για την εκτέλεση του Amarok USB Formatter</message>
+    <message xml:lang="es">Se requiere autenticación para ejecutar Formateador USB Amarok</message>
+    <message xml:lang="eu">Autentifikazioa behar da Amarok USB Formateatzailea exekutatzeko</message>    
+    <message xml:lang="fi">Amarok USB Formatterin käyttäminen edellyttää todennusta</message>
+    <message xml:lang="fil">Kinakailangan ang pagpapatunay upang patakbuhin ang Amarok USB Formatter</message>
+    <message xml:lang="fr">L'authentification est requise pour exécuter Formateur USB Amarok</message>    
+    <message xml:lang="he">נדרש אימות כדי להפעיל את פורמט USB של Amarok</message>
+    <message xml:lang="hi">Amarok USB फ़ॉर्मेटर चलाने के लिए प्रमाणीकरण आवश्यक है</message>
+    <message xml:lang="id">Otentikasi diperlukan untuk menjalankan Amarok USB Formatter</message>
+    <message xml:lang="it">L'autenticazione è necessaria per eseguire Formattatore USB Amarok</message>
+    <message xml:lang="ja">Amarok USB フォーマッタ を実行するには認証が必要です</message>
+    <message xml:lang="ko">Amarok USB 포맷터를 실행하려면 인증이 필요합니다.</message>
+    <message xml:lang="ms">Pengesahan diperlukan untuk menjalankan Pemformat USB Amarok</message>    
+    <message xml:lang="nl">Verificatie is vereist om Amarok USB-formatter uit te voeren</message>
+    <message xml:lang="no">Autentisering kreves for å kjøre Amarok USB Formatter</message>
+    <message xml:lang="pl">Uwierzytelnienie jest wymagane do uruchomienia Formater USB Amaroka</message>
+    <message xml:lang="pt_BR">A autenticação é necessária para executar o Amarok USB Formatter</message>    
+    <message xml:lang="pt">A autenticação é necessária para executar o Amarok USB Formatter</message>
+    <message xml:lang="ro">Este necesară autentificarea pentru a rula Formatator USB Amarok</message>
+    <message xml:lang="ru">Для запуска USB-форматер Amarok требуется аутентификация.</message>
+    <message xml:lang="se">Autentisering krävs för att köra Amarok USB-formaterare</message>   
+    <message xml:lang="th">จำเป็นต้องมีการรับรองความถูกต้องเพื่อเรียกใช้ Amarok ฟอร์แมต USB</message>     
+    <message xml:lang="uk">Для запуску Amarok USB Formatter потрібна автентифікація</message>         
+    <message xml:lang="zh_CN">运行 Amarok USB 格式化程序 需要身份验证</message>
+    <message xml:lang="zh_HK">運行 Amarok USB 格式化程序 需要身份驗證</message>
+    <message xml:lang="zh_MO">運行 Amarok USB 格式化程序 需要身份驗證</message>    
+    <message xml:lang="zh_TW">運行 Amarok USB 格式化程序 需要身份驗證</message>        
+    <defaults>
+      <allow_any>auth_admin</allow_any>
+      <allow_inactive>auth_admin</allow_inactive>
+      <allow_active>auth_admin</allow_active>
+    </defaults>
+    <annotate key="org.freedesktop.policykit.exec.path">/usr/share/amarok/amarok-usb-formatter/src/USBFormatter.py</annotate>
+    <annotate key="org.freedesktop.policykit.exec.allow_gui">true</annotate>
+  </action>
+
+</policyconfig>

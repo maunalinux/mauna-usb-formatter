@@ -1,0 +1,18 @@
+Source: mauna-usb-formatter
+Section: utils
+Priority: optional
+Maintainer: Mauna Linux <dev@maunalinux.top>
+Build-Depends: debhelper (>= 10), dh-python, python3-all, python3-setuptools
+Standards-Version: 4.3.0
+Homepage: https://github.com/maunalinux/mauna-usb-formatter
+
+Package: mauna-usb-formatter
+Architecture: all
+Depends: ${misc:Depends},
+         ${python3:Depends},
+         python3 (>=3.5),
+         python3-gi,
+         python3-pyudev,
+         gir1.2-gtk-3.0
+Description: Mauna USB Formatter
+ Simple Gtk+ and Python based USB Formatter

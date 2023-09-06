@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-18 18:12-0300\n"
+"PO-Revision-Date: 2023-08-01 08:35-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: ui/MainWindow.glade:7
+msgid "About"
+msgstr "O"
+
+#: ui/MainWindow.glade:11 ui/MainWindow.glade:238 ui/MainWindow.glade:275
+#: ui/MainWindow.glade:747
+msgid "Mauna USB Formatter"
+msgstr "Formater USB Mauna"
+
+#: ui/MainWindow.glade:14
+msgid "Format USB Devices easily."
+msgstr "Łatwe formatowanie urządzeń USB."
+
+#: ui/MainWindow.glade:52
+msgid "Are you sure?"
+msgstr "Jesteś pewny?"
+
+#: ui/MainWindow.glade:136
+msgid "Will be formatted as:"
+msgstr "Zostanie sformatowany jako:"
+
+#: ui/MainWindow.glade:176
+msgid ""
+"<b>WARNING:</b>\n"
+"All the personal data on the device will be deleted.\n"
+"Do you want to continue?"
+msgstr ""
+"<b>OSTRZEŻENIE:</b>\n"
+"Wszystkie dane osobowe na urządzeniu zostaną usunięte.\n"
+"Czy chcesz kontynuować?"
+
+#: ui/MainWindow.glade:434
+msgid "New Device Name"
+msgstr "Nowa Nazwa Urządzenia"
+
+#: ui/MainWindow.glade:451
+msgid "Slow Format (Set all bytes to 0)"
+msgstr "Powolne Formatowanie (ustaw wszystkie bajty na 0)"
+
+#: ui/MainWindow.glade:478
+msgid "Start"
+msgstr "Początek"
+
+#: ui/MainWindow.glade:565 src/MainWindow.py:198
+msgid "Formatting"
+msgstr "Formatowanie"
+
+#: ui/MainWindow.glade:581
+msgid "This may take a while."
+msgstr "To może zająć chwilę."
+
+#: ui/MainWindow.glade:668 src/MainWindow.py:201
+msgid "Formatting is finished."
+msgstr "Formatowanie zostało zakończone."
+
+#: ui/MainWindow.glade:694 src/MainWindow.py:201
+msgid "You can eject the USB disk."
+msgstr "Możesz wysunąć dysk USB."
+
+#: ui/MainWindow.glade:704
+msgid "Exit"
+msgstr "Wyjście"
+
+#: ui/MainWindow.glade:722
+msgid "Format another device."
+msgstr "Sformatuj inne urządzenie."
+
+#: src/MainWindow.py:209
+msgid "An error occured while formatting the disk."
+msgstr "Wystąpił błąd podczas formatowania dysku."
+
+#: src/MainWindow.py:212
+msgid ""
+"Please make sure the USB device is connected properly, not used by any "
+"program and try again."
+msgstr ""
+"Upewnij się, że urządzenie USB jest prawidłowo podłączone i nie jest "
+"używane przez żaden program, i spróbuj ponownie."

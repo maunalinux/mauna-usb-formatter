@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-18 18:12-0300\n"
+"PO-Revision-Date: 2023-08-01 08:41-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: ui/MainWindow.glade:7
+msgid "About"
+msgstr "के बारे में"
+
+#: ui/MainWindow.glade:11 ui/MainWindow.glade:238 ui/MainWindow.glade:275
+#: ui/MainWindow.glade:747
+msgid "Mauna USB Formatter"
+msgstr "मौना यूएसबी फ़ॉर्मेटर"
+
+#: ui/MainWindow.glade:14
+msgid "Format USB Devices easily."
+msgstr "USB डिवाइस को आसानी से फ़ॉर्मेट करें."
+
+#: ui/MainWindow.glade:52
+msgid "Are you sure?"
+msgstr "क्या आपको यकीन है?"
+
+#: ui/MainWindow.glade:136
+msgid "Will be formatted as:"
+msgstr "इस प्रकार स्वरूपित किया जाएगा:"
+
+#: ui/MainWindow.glade:176
+msgid ""
+"<b>WARNING:</b>\n"
+"All the personal data on the device will be deleted.\n"
+"Do you want to continue?"
+msgstr ""
+"<b>चेतावनी:</b>\n"
+"डिवाइस पर मौजूद सभी व्यक्तिगत डेटा हटा दिया जाएगा.\n"
+"क्या आप जारी रखना चाहते हैं?"
+
+#: ui/MainWindow.glade:434
+msgid "New Device Name"
+msgstr "नये डिवाइस का नाम"
+
+#: ui/MainWindow.glade:451
+msgid "Slow Format (Set all bytes to 0)"
+msgstr "धीमा प्रारूप (सभी बाइट्स को 0 पर सेट करें)"
+
+#: ui/MainWindow.glade:478
+msgid "Start"
+msgstr "शुरू"
+
+#: ui/MainWindow.glade:565 src/MainWindow.py:198
+msgid "Formatting"
+msgstr "का प्रारूपण"
+
+#: ui/MainWindow.glade:581
+msgid "This may take a while."
+msgstr "यह कुछ देर ले सकता है।"
+
+#: ui/MainWindow.glade:668 src/MainWindow.py:201
+msgid "Formatting is finished."
+msgstr "फ़ॉर्मेटिंग समाप्त हो गई है."
+
+#: ui/MainWindow.glade:694 src/MainWindow.py:201
+msgid "You can eject the USB disk."
+msgstr "आप USB डिस्क को बाहर निकाल सकते हैं."
+
+#: ui/MainWindow.glade:704
+msgid "Exit"
+msgstr "बाहर निकलना"
+
+#: ui/MainWindow.glade:722
+msgid "Format another device."
+msgstr "किसी अन्य डिवाइस को फ़ॉर्मेट करें."
+
+#: src/MainWindow.py:209
+msgid "An error occured while formatting the disk."
+msgstr "डिस्क को फ़ॉर्मेट करते समय कोई त्रुटि उत्पन्न हुई."
+
+#: src/MainWindow.py:212
+msgid ""
+"Please make sure the USB device is connected properly, not used by any "
+"program and try again."
+msgstr ""
+"कृपया सुनिश्चित करें कि यूएसबी डिवाइस ठीक से कनेक्ट है, किसी प्रोग्राम द्वारा उपयोग "
+"नहीं किया गया है और पुनः प्रयास करें।"

@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-18 18:12-0300\n"
+"PO-Revision-Date: 2023-08-09 19:26-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: ui/MainWindow.glade:7
+msgid "About"
+msgstr "关于"
+
+#: ui/MainWindow.glade:11 ui/MainWindow.glade:238 ui/MainWindow.glade:275
+#: ui/MainWindow.glade:747
+msgid "Mauna USB Formatter"
+msgstr "莫纳 USB 格式化程序"
+
+#: ui/MainWindow.glade:14
+msgid "Format USB Devices easily."
+msgstr "轻松格式化 USB 设备。"
+
+#: ui/MainWindow.glade:52
+msgid "Are you sure?"
+msgstr "你确定吗？"
+
+#: ui/MainWindow.glade:136
+msgid "Will be formatted as:"
+msgstr "将被格式化为："
+
+#: ui/MainWindow.glade:176
+msgid ""
+"<b>WARNING:</b>\n"
+"All the personal data on the device will be deleted.\n"
+"Do you want to continue?"
+msgstr ""
+"<b>警告：</b>\n"
+"设备上的所有个人数据都将被删除。\n"
+"你想继续吗？"
+
+#: ui/MainWindow.glade:434
+msgid "New Device Name"
+msgstr "新设备名称"
+
+#: ui/MainWindow.glade:451
+msgid "Slow Format (Set all bytes to 0)"
+msgstr "慢速格式化（将所有字节设置为 0）"
+
+#: ui/MainWindow.glade:478
+msgid "Start"
+msgstr "开始"
+
+#: ui/MainWindow.glade:565 src/MainWindow.py:198
+msgid "Formatting"
+msgstr "格式化"
+
+#: ui/MainWindow.glade:581
+msgid "This may take a while."
+msgstr "可能还要等一下。"
+
+#: ui/MainWindow.glade:668 src/MainWindow.py:201
+msgid "Formatting is finished."
+msgstr "格式化完成。"
+
+#: ui/MainWindow.glade:694 src/MainWindow.py:201
+msgid "You can eject the USB disk."
+msgstr "您可以弹出 USB 盘。"
+
+#: ui/MainWindow.glade:704
+msgid "Exit"
+msgstr "出口"
+
+#: ui/MainWindow.glade:722
+msgid "Format another device."
+msgstr "格式化另一台设备。"
+
+#: src/MainWindow.py:209
+msgid "An error occured while formatting the disk."
+msgstr "格式化磁盘时发生错误。"
+
+#: src/MainWindow.py:212
+msgid ""
+"Please make sure the USB device is connected properly, not used by any "
+"program and try again."
+msgstr "请确保USB设备连接正确，未被任何程序使用，然后重试。"

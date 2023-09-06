@@ -1,0 +1,7 @@
+mauna-usb-formatter (1.0.0) mauna; urgency=medium
+
+  * New upstream release for Mauna Linux
+  * Initial commit
+
+ -- Mauna Linux <dev@maunalinux.top>  Wed, 16 Aug 2023 15:06:51 -0300
+

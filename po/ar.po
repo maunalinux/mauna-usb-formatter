@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-18 18:12-0300\n"
+"PO-Revision-Date: 2023-07-31 16:03-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: ui/MainWindow.glade:7
+msgid "About"
+msgstr "عن"
+
+#: ui/MainWindow.glade:11 ui/MainWindow.glade:238 ui/MainWindow.glade:275
+#: ui/MainWindow.glade:747
+msgid "Mauna USB Formatter"
+msgstr "مُنسق USB من مونا"
+
+#: ui/MainWindow.glade:14
+msgid "Format USB Devices easily."
+msgstr "قم بتهيئة أجهزة USB بسهولة."
+
+#: ui/MainWindow.glade:52
+msgid "Are you sure?"
+msgstr "هل أنت متأكد؟"
+
+#: ui/MainWindow.glade:136
+msgid "Will be formatted as:"
+msgstr "سيتم تنسيقها على النحو التالي:"
+
+#: ui/MainWindow.glade:176
+msgid ""
+"<b>WARNING:</b>\n"
+"All the personal data on the device will be deleted.\n"
+"Do you want to continue?"
+msgstr ""
+"<b> تحذير: </b>\n"
+"سيتم حذف جميع البيانات الشخصية الموجودة على الجهاز.\n"
+"هل تريد الاستمرار؟"
+
+#: ui/MainWindow.glade:434
+msgid "New Device Name"
+msgstr "اسم الجهاز الجديد"
+
+#: ui/MainWindow.glade:451
+msgid "Slow Format (Set all bytes to 0)"
+msgstr "تنسيق بطيء (اضبط كافة البايتات على 0)"
+
+#: ui/MainWindow.glade:478
+msgid "Start"
+msgstr "يبدأ"
+
+#: ui/MainWindow.glade:565 src/MainWindow.py:198
+msgid "Formatting"
+msgstr "التنسيق"
+
+#: ui/MainWindow.glade:581
+msgid "This may take a while."
+msgstr "قد يستغرق هذا بعض الوقت."
+
+#: ui/MainWindow.glade:668 src/MainWindow.py:201
+msgid "Formatting is finished."
+msgstr "تم الانتهاء من التنسيق."
+
+#: ui/MainWindow.glade:694 src/MainWindow.py:201
+msgid "You can eject the USB disk."
+msgstr "يمكنك إخراج قرص USB."
+
+#: ui/MainWindow.glade:704
+msgid "Exit"
+msgstr "مخرج"
+
+#: ui/MainWindow.glade:722
+msgid "Format another device."
+msgstr "تهيئة جهاز آخر."
+
+#: src/MainWindow.py:209
+msgid "An error occured while formatting the disk."
+msgstr "حدث خطأ أثناء تهيئة القرص."
+
+#: src/MainWindow.py:212
+msgid ""
+"Please make sure the USB device is connected properly, not used by any "
+"program and try again."
+msgstr ""
+"يرجى التأكد من توصيل جهاز USB بشكل صحيح ، وعدم استخدامه من قبل أي "
+"برنامج والمحاولة مرة أخرى."
