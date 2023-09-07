@@ -48,6 +48,7 @@ po/pl/
 po/pt/
 po/pt_BR/
 po/zh_CN/
+src/__version__
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
