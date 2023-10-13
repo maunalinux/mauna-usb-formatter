@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-16 14:12-0300\n"
+"PO-Revision-Date: 2023-10-07 10:26-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#: ui/MainWindow.glade:7
+msgid "About"
+msgstr "에 대한"
+
+#: ui/MainWindow.glade:11 ui/MainWindow.glade:238 ui/MainWindow.glade:275
+#: ui/MainWindow.glade:747
+msgid "Mauna USB Formatter"
+msgstr "마우나 USB 포맷터"
+
+#: ui/MainWindow.glade:14
+msgid "Format USB Devices easily."
+msgstr "USB 장치를 쉽게 포맷하세요."
+
+#: ui/MainWindow.glade:52
+msgid "Are you sure?"
+msgstr "확실합니까?"
+
+#: ui/MainWindow.glade:136
+msgid "Will be formatted as:"
+msgstr "다음과 같은 형식으로 지정됩니다."
+
+#: ui/MainWindow.glade:176
+msgid ""
+"<b>WARNING:</b>\n"
+"All the personal data on the device will be deleted.\n"
+"Do you want to continue?"
+msgstr ""
+"<b>경고:</b>\n"
+"기기에 있는 모든 개인 데이터가 삭제됩니다.\n"
+"계속하시겠습니까?"
+
+#: ui/MainWindow.glade:434
+msgid "New Device Name"
+msgstr "새 장치 이름"
+
+#: ui/MainWindow.glade:451
+msgid "Slow Format (Set all bytes to 0)"
+msgstr "느린 형식(모든 바이트를 0 으로 설정)"
+
+#: ui/MainWindow.glade:478
+msgid "Start"
+msgstr "시작"
+
+#: ui/MainWindow.glade:565 src/MainWindow.py:198
+msgid "Formatting"
+msgstr "서식 지정"
+
+#: ui/MainWindow.glade:581
+msgid "This may take a while."
+msgstr "시간이 좀 걸릴 수 있습니다."
+
+#: ui/MainWindow.glade:668 src/MainWindow.py:201
+msgid "Formatting is finished."
+msgstr "포맷이 완료되었습니다."
+
+#: ui/MainWindow.glade:694 src/MainWindow.py:201
+msgid "You can eject the USB disk."
+msgstr "USB 디스크를 꺼낼 수 있습니다."
+
+#: ui/MainWindow.glade:704
+msgid "Exit"
+msgstr "출구"
+
+#: ui/MainWindow.glade:722
+msgid "Format another device."
+msgstr "다른 장치를 포맷하십시오."
+
+#: src/MainWindow.py:209
+msgid "An error occured while formatting the disk."
+msgstr "디스크를 포맷하는 동안 오류가 발생했습니다."
+
+#: src/MainWindow.py:212
+msgid ""
+"Please make sure the USB device is connected properly, not used by any "
+"program and try again."
+msgstr ""
+"USB 장치가 올바르게 연결되어 있는지, 어떤 프로그램에서도 사용되지 않는"
+"지 확인한 후 다시 시도하십시오."
