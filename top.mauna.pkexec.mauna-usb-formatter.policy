@@ -16,6 +16,7 @@
     <message xml:lang="da">Der kræves godkendelse for at køre Mauna USB-formater</message>
     <message xml:lang="de">Zur Ausführung des Mauna USB-Formatierer ist eine Authentifizierung erforderlich</message>
     <message xml:lang="el">Απαιτείται έλεγχος ταυτότητας για την εκτέλεση του Mauna USB Formatter</message>
+    <message xml:lang="en">Authentication is required to run Mauna USB Formatter</message>    
     <message xml:lang="es">Se requiere autenticación para ejecutar Formateador USB Mauna</message>
     <message xml:lang="eu">Autentifikazioa behar da Mauna USB Formateatzailea exekutatzeko</message>    
     <message xml:lang="fi">Mauna USB Formatterin käyttäminen edellyttää todennusta</message>
