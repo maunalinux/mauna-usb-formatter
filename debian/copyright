@@ -1,12 +1,13 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: amarok-usb-formatter
+Upstream-Name:  mauna-usb-formatter
 Source: https://github.com/maunalinux/mauna-usb-formatter
 
 
 
 Files: *
 Copyright: 2020 Emin Fedar <emin.fedar@pardus.org.tr>
-	   2023 Mauna Linux <dev@maunalinux.top>
+	   2023, Pardus <dev@pardus.org.tr>
+	   2023-2024 Mauna Linux <dev@maunalinux.top>
 License: GPL-3.0+
 
 License: GPL-3.0+
