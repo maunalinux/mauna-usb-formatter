@@ -10,7 +10,7 @@
     <property name="type-hint">dialog</property>
     <property name="program-name">Mauna USB Formatter</property>
     <property name="version">0.1.0~Beta1</property>
-    <property name="copyright">© 2023 Mauna Linux</property>
+    <property name="copyright">© 2024 Mauna Linux</property>
     <property name="comments" translatable="yes">Format USB Devices easily.</property>
     <property name="website">https://maunalinux.top</property>
     <property name="authors">Mauna Linux</property>
@@ -513,7 +513,7 @@ Do you want to continue?</property>
                 <property name="opacity">0.59999999999999998</property>
                 <property name="margin-top">7</property>
                 <property name="margin-bottom">7</property>
-                <property name="label">MAUNA LINUX | 2023</property>
+                <property name="label">MAUNA LINUX | 2024</property>
                 <attributes>
                   <attribute name="size" value="9500"/>
                 </attributes>
